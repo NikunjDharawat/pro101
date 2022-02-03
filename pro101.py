@@ -24,7 +24,7 @@ class TranferData:
 
 
 def main():
-    access_token =
+    access_token = "sl.BBW_nmHGpBsQR8akE6g_B3WNd9uWn0DH9-sUYu_ONgfoGJQbxy2wDvy9shqrALwoEbg3Fs0_225XAccU1fYAnLgYNv6J_GMeY34xyVCjN9tQ12cpA54SgahF_anQZwyiurFGauOa8qs"
     transferData =transferData(access_token)
 
     file_from = star(input("Enter the folder path to transfer:-"))
